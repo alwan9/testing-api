@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Pensil",
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "name": "Penghapus",
+            "price": 1000
+        },
+        {
+            "name": "burger",
+            "price": "3000",
+            "id": 3
+        },
+        {
+            "name": "alwan",
+            "price": "222",
+            "id": 4
+        }
+    ]
+}
